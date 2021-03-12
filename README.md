@@ -26,8 +26,8 @@ The solutions and demos will be placed to the right of those descriptions. They 
 22. Charts
 23. Password generator based on user cursor mouse movement
 24. Piano
-25. Tracker of English letters among Russians and vice versa
-26. Grid image layout
+25. Defining of English letters among Russians and vice versa (such as Russian 'а' and English 'a' and others)
+26. Mansori Grid on JS
 27. Calendar 
 28. Bank card holder input trigger with animation
 29. Speech to text

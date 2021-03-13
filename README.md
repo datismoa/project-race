@@ -45,7 +45,7 @@ The solutions and demos will be placed to the right of those descriptions. They 
 41. Pagination
 42. Paint
 43. Translate extension for google
-44. Custom html/css/js format
+44. Custom JS parser for own programming language
 45. Text to image constructor with font-family, font-size settings
 46. 2D-level editor like tragedy of squirrels
 47. Custom keyboard typing tester like https://zty.pe/

@@ -1,6 +1,6 @@
 ## Project race list
 
-The solutions and demos will be placed to the right of those descriptions. They could not be resolved consistently. There is one proviso for solutions — only **vanilla JS**.
+The solutions and demos will be placed to the right of those descriptions. They could not be resolved consistently. There is one proviso for solutions — use no libraries for **JS**.
 
 1. Logging mouse coordinates
 2. Logging key code and other useful information about pressed button
